@@ -8,6 +8,7 @@ import org.json4s.jackson.JsonMethods._
 import java.net.{HttpURLConnection, URL}
 // Yipeng Cui, 000826527
 // Yuhang Li, 000981323
+// Tongyu Li, 000824613
 // Main object to handle Renewable Energy Production System (REPS) application
 object REPSConsoleApp {
 
